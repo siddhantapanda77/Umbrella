@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  
+  <style>
+  
+  
+  h1,h2
+  {
+  color: red;
+  font-family: verdana;
+  background-color: black;
+  }
+  a
+  {
+  color: red;
+  font-family: verdana;
+
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </style>
+  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width", initial-scale=1.0>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="shortcut icon" type="image/png" href="img/spl.jpg">
+    <link rel="shortcut icon" type="image/png" href="img/CSX-trains-9566938-2560-1977.jpg">
+    <title>Whimsical Whirlwind</title>
+  </head>
+
+
+<body>
+    <header class="header">
+     	<div class="header__text-box">
+     		<h1 class="heading-primary">
+     			<span class="heading-primary--main">Whimsical Whirlwind</span>
+     			<span class="heading-primary--sub">Tiny spurts of abstruse chaotic energy</span>
+     		</h1>
+     		<a href="#" class="btn btn--white">Explore</a>
+     	</div>
+     </header>
+    <div class="container">
+      <main>
+        <h2 class="visuallyhidden">Articles</h2>
+
+            <article>
+                <header>
+                    <h3>Action replay</h3>
+                    <time datetime="2016-05-12T08:00">May 12</time>
+                </header>
+
+
+
+                <p>A day on a local train, watching people making life overflow from its brim</p>
+
+                <a class="btn" href="#">Read more</a>
+            </article>
+
+            <article>
+              <header>
+                <h3></h3>
+                <time datetime=""></time>
+              </header>
+
+              <img src="" alt="">
+
+              <p></p>
+
+              <a class="btn" href="#">Read more</a>
+
+            </article>
+
+            <article>
+              <header>
+                <h3></h3>
+                <time datetime=""></time>
+              </header>
+
+              <img src=""  alt="">
+
+              <p></p>
+
+              <a class="btn" href="#">Read more</a>
+
+            </article>
+
+            <article>
+              <header>
+                <h3></h3>
+                <time datetime=""></time>
+              <header>
+
+                <img src="" alt="">
+
+              <p></p>
+
+              <a class="btn" href="#"></a>
+
+            </article>
+
+            <aside>
+            <img src="img/profilepic.jpg" alt="My profile picture">
+
+            <div class="sidebar-text">
+                <h2>About Me</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ducimus delectus esse repellendus. Harum esse laudantium itaque, aut cum molestias magni voluptatum veritatis alias. Veniam, impedit fuga ab saepe repudiandae.</p>
+
+                <section>
+                    <h3 class="visuallyhidden">Social Links</h3>
+                    <a class="social-link" href="https://twitter.com/udacity">
+                        <img src="img/social-twitter.png" alt="Twitter">
+                    </a>
+                    <a class="social-link" href="https://www.instagram.com/udacity/">
+                        <img src="img/social-instagram.png" alt="Instagram">
+                    </a>
+                    <a class="social-link" href="https://plus.google.com/+Udacity">
+                        <img src="img/social-google.png" alt="Google Plus">
+                    </a>
+                </section>
+            </div>
+        </aside>
+    </div>
+
+    <footer>
+        Made with &hearts; by Richard @ Udacity
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
