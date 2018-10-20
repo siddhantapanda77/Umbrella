@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto Slab';
+    background-color: #d6fbfe;
+
+}
+
+h1 {
+    line-height: 1.75;
+    font-size: 48px;
+    font-weight: 500;
+    font-style: italic;
+    color: #202cfe;
+    text-align: center;
+}
+
+h2 {
+    line-height: 1.75;
+    font-size: 48px;
+    font-weight: 500;
+    font-style: italic;
+    color: #202cfe;
+    text-align: center;
+}
+
+h3 {
+    line-height: 1.75;
+    color: #a594fe;
+}
+
+p {
+    line-height: 1.75;
+    color: #090712;
+}
+
+a {
+    color: #292680;
+
+}
