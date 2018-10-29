@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.header__text-box {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.header__text-box > .heading-primary {
+    text-align: center;
+}
+.container {
+    padding: 40px;
+    display: flex;
+}
+.articles {
+    display: flex;
+    flex-direction: column;
+}
+
+.articles :nth-of-type(1){
+    text-align: right;
+}
+.articles > .visuallyhidden{
+    text-align: center;
+}
+
+aside{
+    flex: 5;
+    padding: 20px;
+}
